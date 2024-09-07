@@ -11,13 +11,13 @@
 * **Descrição:** Um resumo da carreira e conquistas.
 * **Mais informações:** Um link direto para saber ainda mais!
 
-** Tecnologias utilizadas:**
+**Tecnologias utilizadas:**
 
 * **HTML5:** A base de tudo, a estrutura da nossa página.
 * **CSS3:** Deixando tudo bonitinho e organizado, com um design moderno.
 * **JavaScript:** A mágica por trás da busca, deixando tudo dinâmico e interativo.
 
-** Quer contribuir?**
+**Quer contribuir?**
 
 Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à vontade para abrir um pull request! Toda ajuda é bem-vinda!
 
@@ -31,9 +31,6 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 
 **Badge de Linguagem:** 
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-
-**Demo:** 
-[Link para uma demonstração da sua aplicação, se tiver]
 
 **Contribuindo:**
 * **Fork:** Crie uma cópia do repositório para o seu perfil.
